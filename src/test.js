@@ -1,0 +1,5 @@
+const operation = require('./index.js')
+// operation.myFileWriter("File.txt","Hi I'm Simran")
+// operation.myFileReader("File.txt")
+// operation.myFileUpdater("File.txt","This is the appended data")
+// operation.myFileDeleter("File.txt")
